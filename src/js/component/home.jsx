@@ -1,5 +1,5 @@
 import React from "react";
-import Card from  "/workspace/react-hello/src/js/component/Card.jsx"
+import Card from  "/workspace/counter-react/src/js/component/Card.jsx"
 
 
 //create your first component

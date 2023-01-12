@@ -1,5 +1,5 @@
 import React from "react";
-import Card from './Card.jsx'
+import Card from "/workspace/react-hello/src/js/component/Card.jsx"
 
 
 const Card(props){
